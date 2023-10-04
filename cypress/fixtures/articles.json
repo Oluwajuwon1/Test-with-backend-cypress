@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "slug": "Title-must-be-unique-1850",
+      "title": "Title",
+      "description": "This is a description",
+      "body": "This is a body of the article",
+      "tagList": [],
+      "createdAt": "2023-10-03T22:28:18.327Z",
+      "updatedAt": "2023-10-03T22:28:18.327Z",
+      "favorited": false,
+      "favoritesCount": 1,
+      "author": {
+        "username": "CyTestUser",
+        "bio": "2222",
+        "image": "https://i.stack.imgur.com/34AD2.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "Unique-title2-1850",
+      "title": "Title2",
+      "description": "Unique description",
+      "body": "Unique context",
+      "tagList": [],
+      "createdAt": "2023-10-03T17:52:26.251Z",
+      "updatedAt": "2023-10-03T17:52:26.251Z",
+      "favorited": false,
+      "favoritesCount": 5,
+      "author": {
+        "username": "CyTestUser",
+        "bio": "2222",
+        "image": "https://i.stack.imgur.com/34AD2.jpg",
+        "following": false
+      }
+    }
+  ],
+  "articlesCount": 2
+}
